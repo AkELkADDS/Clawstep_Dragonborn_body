@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a 
-   Fri 07/25/2025 16:15:37.26 
+   Thu 07/31/2025 16:43:10.78 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -2066,6 +2066,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e918ed9d-c867-fb6e-f4a4-a17b387c42bb.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e9319c95-b39f-2075-611b-0ebf475f430b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e983eb04-295e-06df-e192-98aa7f2c7fad.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e9b1665d-d2bb-46d1-bbe7-5bb4f558c183.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e9cfe976-86f6-917e-84e3-e592748d1a8e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\ea36d78c-006c-ec2a-590e-ad3252bb034d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\ea4a81e7-342b-93d8-228c-bd5b715408d5.lsf 
@@ -2118,6 +2119,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f9b6c789-c6e8-79a5-403d-78e4dbf2a0e7.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f9d481c5-d92f-fac9-cae0-be42eeb7d827.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fa227028-8541-28e2-b76f-d8838dc02dc6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fa3f5e68-022f-4066-b129-615aad32c57e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fa871d0e-a46d-ee1b-854f-ff0251aec0d4.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fa8cabde-30e4-1554-6969-d81f3ece4252.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fafd7fab-ddf8-4eab-9014-c77f50616f1a.lsf 
@@ -2310,6 +2312,10 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear_NoMetal_EL_1.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Githyanki_Underwear_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Githyanki_Underwear_B.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Body_2.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Body_2.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Skirt_A_2.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Skirt_A_2.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Body\DGB_M_NKD_Body_A_EL_1.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\NakedBody_Opener\DGB_F_NKD_Tail_A_TabOpener.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\NakedBody_Opener\DGB_F_NKD_Tail_A_TabOpener.xml 
@@ -2511,7 +2517,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\RootTemplates\fefa15ce-2277-42eb-b49a-83e5ac2594c6.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\RootTemplates\ff7d64c3-3969-44f6-98ee-0add1fb69fef.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\SharedDev\Assets\Characters\_Models\Dragonborn\_Female\Resources\DGB_F_ARM_Robe_C_2_Body.GR2 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a: 2434 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a: 2440 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a 
  
@@ -3183,7 +3189,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\NakedBody_Opener\DGB_M_NKD_Tail_A_TabOpener.GR2 
 Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a: 665 
  
-[LOG] Total files found across all folders: 3147 
+[LOG] Total files found across all folders: 3153 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -3199,7 +3205,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, July 25, 2025 4:15:41 PM
+  Started : Thursday, July 31, 2025 4:43:15 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Projects\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
 
@@ -3223,7 +3229,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           245644000 Bytes/sec.
    Speed :           14055.862 MegaBytes/min.
-   Ended : Friday, July 25, 2025 4:15:41 PM
+   Ended : Thursday, July 31, 2025 4:43:15 PM
 
  
 [DEBUG] Counting source files 
@@ -3249,7 +3255,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, July 25, 2025 4:15:42 PM
+  Started : Thursday, July 31, 2025 4:43:16 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Editor\Mods\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
 
@@ -3311,9 +3317,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1260006000 Bytes/sec.
-   Speed :            72098.121 MegaBytes/min.
-   Ended : Friday, July 25, 2025 4:15:42 PM
+   Speed :           775388307 Bytes/sec.
+   Speed :           44368.074 MegaBytes/min.
+   Ended : Thursday, July 31, 2025 4:43:16 PM
 
  
 [DEBUG] Counting source files 
@@ -3339,7 +3345,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, July 25, 2025 4:15:44 PM
+  Started : Thursday, July 31, 2025 4:43:18 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Mods\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
 
@@ -3363,9 +3369,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           257534000 Bytes/sec.
-   Speed :           14736.213 MegaBytes/min.
-   Ended : Friday, July 25, 2025 4:15:44 PM
+   Speed :           128767000 Bytes/sec.
+   Speed :            7368.106 MegaBytes/min.
+   Ended : Thursday, July 31, 2025 4:43:18 PM
 
  
 [DEBUG] Counting source files 
@@ -3391,7 +3397,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, July 25, 2025 4:15:46 PM
+  Started : Thursday, July 31, 2025 4:43:20 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
 
@@ -3929,7 +3935,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     134	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_F_ARM_Robe_E_Bracer.xml100%  
 	    New File  		  597008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_F_ARM_Robe_Lorroakan_A_Body.GR2100%  
 	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_F_ARM_Robe_Lorroakan_A_Body.xml100%  
-	    New File  		  118972	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_F_ARM_Robe_Lorroakan_A_Bracer.GR2100%  
+	    New File  		  118972	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_F_ARM_Robe_Lorroakan_A_Bracer.GR2  0%  100%  
 	    New File  		     144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_F_ARM_Robe_Lorroakan_A_Bracer.xml100%  
 	    New File  		  399044	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_F_ARM_Robe_Lorroakan_Body.GR2100%  
 	    New File  		     140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_F_ARM_Robe_Lorroakan_Body.xml100%  
@@ -4739,7 +4745,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\0d03e9fe-be9d-b9d9-b439-cf8a3032fb9f.lsf100%  
 	    New File  		    2843	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\0d47c19e-5630-6fb1-98cd-7b497adb627f.lsf100%  
 	    New File  		    2696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\0d9615a6-d028-1e60-4cf4-0b613713e1e4.lsf100%  
-	    New File  		    2653	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\0db0d567-95c8-dcb1-e9ab-f7e1e1bcf8e9.lsf100%  
+	    New File  		    2852	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\0db0d567-95c8-dcb1-e9ab-f7e1e1bcf8e9.lsf100%  
 	    New File  		    2574	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\0dc1e494-5473-03dd-5c55-15f39be491fc.lsf100%  
 	    New File  		    2658	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\0dd2674b-b078-f761-8d7a-828952651808.lsf100%  
 	    New File  		   13182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\0de5d1b6-45e5-ba1c-7793-9b00c12549d4.lsf100%  
@@ -4767,7 +4773,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    6739	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\15e34d66-d862-2615-5978-ec79307dd1b0.lsf100%  
 	    New File  		    2821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\163e23c2-08e2-5ff7-5e25-15a751ab5b7c.lsf100%  
 	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\164df20f-436c-5a42-1b85-c5dbd54e9797.lsf100%  
-	    New File  		    2709	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1753fdeb-aa2a-c767-1eaf-46b5aba2f300.lsf100%  
+	    New File  		    2892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1753fdeb-aa2a-c767-1eaf-46b5aba2f300.lsf100%  
 	    New File  		    2574	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1766fc44-4501-12c6-55b7-3fe5e4af031d.lsf100%  
 	    New File  		   10520	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\179d32d5-9a9a-54d5-428b-b75fa2bcb201.lsf100%  
 	    New File  		    2634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\17c82c07-cade-2741-b117-142e39e2f286.lsf100%  
@@ -4786,7 +4792,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    5950	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1a50a09e-168b-004a-86c3-607dde3e2627.lsf100%  
 	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1a79f946-31de-f74b-60e2-93803e770f9c.lsf100%  
 	    New File  		    2694	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1ac183de-8dc0-4363-81dc-096aa562b5af.lsf100%  
-	    New File  		    2688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1b5141ad-3f2d-8907-f9f7-3d45fabd1c2d.lsf100%  
+	    New File  		    2631	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1b5141ad-3f2d-8907-f9f7-3d45fabd1c2d.lsf100%  
 	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1b9f4ee1-8834-2e7e-23ba-664105f91d24.lsf100%  
 	    New File  		    7529	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1d8dce95-5ae1-9802-8f2c-1791a5ff1eb8.lsf100%  
 	    New File  		    2649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\1da0375a-b03c-48c2-8ee3-5dd3457f09fc.lsf100%  
@@ -4813,7 +4819,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   18074	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\21e006a0-5103-4703-a4e2-7c0e1df10d59.lsf100%  
 	    New File  		    2791	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\21f4d996-f0ee-ace2-8033-f7bc003b36bf.lsf100%  
 	    New File  		    9808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\21f88680-6ad1-4143-ae88-814be88c6725.lsf100%  
-	    New File  		    2591	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2210e9fa-7277-7377-c548-f64db4de4a1a.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2210e9fa-7277-7377-c548-f64db4de4a1a.lsf100%  
 	    New File  		    2793	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\226328d5-818f-f220-ce32-9dee962ca4f3.lsf100%  
 	    New File  		    2689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\226c4365-d8eb-4c05-9fab-1e499d6e482f.lsf100%  
 	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\22712500-ef21-72d1-fe57-2b2594f54281.lsf100%  
@@ -4851,7 +4857,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2569	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2b408c88-7484-144c-2d3c-bad1551f6e5e.lsf100%  
 	    New File  		    2826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2b452360-8fc1-1ceb-7b9d-0126ecc6b05c.lsf100%  
 	    New File  		    2639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2b7138c9-c9d6-4589-9cc0-3d3737799612.lsf100%  
-	    New File  		    2653	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2b826479-75f0-0618-dc5d-56975f2e5e8b.lsf100%  
+	    New File  		    2489	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2b826479-75f0-0618-dc5d-56975f2e5e8b.lsf100%  
 	    New File  		    2861	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2c247a3d-6a33-76be-09cf-04a82959255c.lsf100%  
 	    New File  		    2836	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2c8001a6-f06d-f15b-2b82-0b34b10616a3.lsf100%  
 	    New File  		   12592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\2cdec9f1-744e-e669-3c03-69d77c470b45.lsf100%  
@@ -4867,7 +4873,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2736	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\304851db-24b6-3106-264e-bdf6a54fcea8.lsf100%  
 	    New File  		   16362	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\30f97d23-fc85-2c52-4ddc-4c0896c7af4f.lsf100%  
 	    New File  		    2534	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\310605cf-7ab4-c007-d53e-0ebc5770f382.lsf100%  
-	    New File  		    2702	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\311c7a34-c28d-2cd6-6798-0de203740c1f.lsf100%  
+	    New File  		    2753	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\311c7a34-c28d-2cd6-6798-0de203740c1f.lsf100%  
 	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\31c5f6b4-d4f9-8795-143b-c5872728efa6.lsf100%  
 	    New File  		    2675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\322053f5-c2fe-f46b-b9af-9784228578a7.lsf100%  
 	    New File  		    5929	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3260d412-94e4-928e-6d7d-30529adf33f5.lsf100%  
@@ -4882,12 +4888,12 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\34dfd58c-eaca-41cc-a64d-cd4b4f1fddb7.lsf100%  
 	    New File  		   12157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\34e80091-1c2c-3c6b-abbf-9ef1f8eb096d.lsf100%  
 	    New File  		    2640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\357c9259-b688-d276-4947-e9c07cac3677.lsf100%  
-	    New File  		    2730	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3588db5e-f6ec-72e7-9217-f92ffe9735c2.lsf100%  
-	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\35926929-91f6-5e4a-96fe-69aaccaa7db6.lsf100%  
+	    New File  		    2544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3588db5e-f6ec-72e7-9217-f92ffe9735c2.lsf100%  
+	    New File  		    2610	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\35926929-91f6-5e4a-96fe-69aaccaa7db6.lsf100%  
 	    New File  		   12830	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\35d227a2-7208-0316-93f6-be7dd6fa46e5.lsf100%  
 	    New File  		    2705	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\35de253b-7a2a-cfcb-f92d-bde70c762c32.lsf100%  
 	    New File  		    2654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\35edaeae-5776-c604-03b5-ca73f61359ae.lsf100%  
-	    New File  		    2498	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\35fc5ff4-ebd5-80d8-a6c2-f6a4a0e8916c.lsf100%  
+	    New File  		    2808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\35fc5ff4-ebd5-80d8-a6c2-f6a4a0e8916c.lsf100%  
 	    New File  		    2712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3605e33c-2335-f829-251b-8b95268a2d1f.lsf100%  
 	    New File  		    2866	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\36385beb-019a-ae5d-d811-4463ee1cccaf.lsf100%  
 	    New File  		    2798	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\370f1b5a-10a5-7b20-fbf0-2c124da88724.lsf100%  
@@ -4906,7 +4912,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3ab9ed8c-ff11-1f4b-b390-95650ed0bc95.lsf100%  
 	    New File  		    7966	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3ad9736e-5aca-2abd-dc69-49b9e3ef7a5e.lsf100%  
 	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3aeed7fd-9485-ec69-9341-05876189d0ee.lsf100%  
-	    New File  		    2623	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3b994bb1-8699-ac42-838b-78881d477c9b.lsf100%  
+	    New File  		    2659	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3b994bb1-8699-ac42-838b-78881d477c9b.lsf100%  
 	    New File  		    2826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3bdf8efb-52e4-b4b7-5f23-71ae58339347.lsf100%  
 	    New File  		    2610	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3beae5e6-5dd9-4551-8ed9-cd0fb48abe12.lsf100%  
 	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\3c8c0ab7-d57b-81a4-70c3-b3c5ed6fdd83.lsf100%  
@@ -4934,7 +4940,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4354c498-efb7-681d-f07a-b2e787fa0ccb.lsf100%  
 	    New File  		    2836	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\43c6b1bc-42af-5988-2caf-f93e0a202fba.lsf100%  
 	    New File  		    9965	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4407cb8b-0d04-a7a4-bb2d-791c55d63503.lsf100%  
-	    New File  		    2672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4419bb4f-a78a-a28c-3cdd-5f2b8855cbb1.lsf100%  
+	    New File  		    2819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4419bb4f-a78a-a28c-3cdd-5f2b8855cbb1.lsf100%  
 	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4469fdc3-9dca-2f80-aa9b-02a75b22ed02.lsf100%  
 	    New File  		    6364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4508130d-a73c-14fe-2946-edb783896c4f.lsf100%  
 	    New File  		    2649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4555096e-6258-4318-94fb-5fa31be75049.lsf100%  
@@ -4943,7 +4949,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4696d40a-555b-d5ab-8820-2e104255dbd7.lsf100%  
 	    New File  		    5925	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\477b455f-11a5-d44c-5919-9f3bd01f66d2.lsf100%  
 	    New File  		    2659	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\47c622b3-3237-497f-ab91-fff355a0f39a.lsf100%  
-	    New File  		    2498	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\47f891a6-d339-f001-a954-a1d3c190c40d.lsf100%  
+	    New File  		    2808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\47f891a6-d339-f001-a954-a1d3c190c40d.lsf100%  
 	    New File  		    2732	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\487f80d0-6e9f-5254-5396-e497b1ceb680.lsf100%  
 	    New File  		    2549	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\48a8106d-acbe-6aa3-1660-9ad760d4b190.lsf100%  
 	    New File  		    1608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\48e42325-e6ec-0c7e-14ba-cfe925196b0a.lsf100%  
@@ -4958,7 +4964,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2541	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4cd69df6-f47f-cc0a-f578-36595f0ae19a.lsf100%  
 	    New File  		    2786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4cdc9ea2-68cc-3dcf-19b0-ebcd4487309d.lsf100%  
 	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4d237734-3e6f-529f-8c2d-606ce6548685.lsf100%  
-	    New File  		    2775	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4d999d49-46f4-de13-7f46-a9e023ef6c0c.lsf100%  
+	    New File  		    2915	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4d999d49-46f4-de13-7f46-a9e023ef6c0c.lsf100%  
 	    New File  		    7391	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4e25234c-fe7a-7a25-5f8d-3100dc260d1f.lsf100%  
 	    New File  		    5474	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4e35c758-c31f-536b-2bb2-a117445682d2.lsf100%  
 	    New File  		   13923	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\4e6b6e94-28e3-bae6-33c6-d4e3a2b070e6.lsf100%  
@@ -4973,7 +4979,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    8340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\52d6610d-c355-1e40-9fee-9d9aa9acbb91.lsf100%  
 	    New File  		    7483	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\52e53a9b-bdea-da56-c5ed-d0b1b5bc3702.lsf100%  
 	    New File  		   11001	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\539a915d-37bb-4505-5f27-45c8983a0206.lsf100%  
-	    New File  		    2498	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\53a1607e-8afe-aefd-d5da-76e6e7372a11.lsf100%  
+	    New File  		    2808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\53a1607e-8afe-aefd-d5da-76e6e7372a11.lsf100%  
 	    New File  		    2639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\53d7fd7c-4793-45f7-acd2-f4a8892713d4.lsf100%  
 	    New File  		    2656	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\53dfe69e-4bfa-de3e-c434-47024c63ceb8.lsf100%  
 	    New File  		    2659	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\54414c45-1455-441e-9b45-2da14668be0a.lsf100%  
@@ -4985,7 +4991,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2569	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\55ac02bf-b724-1ff1-1f60-109a47af077c.lsf100%  
 	    New File  		    6728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\55ad470b-a07c-4c18-524d-7c54c3141ce5.lsf100%  
 	    New File  		    7814	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\55bd2351-4355-bda6-800b-2c9eee0766c6.lsf100%  
-	    New File  		    2679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\560d8410-098a-1108-1256-96ec12549856.lsf100%  
+	    New File  		    2507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\560d8410-098a-1108-1256-96ec12549856.lsf100%  
 	    New File  		    2775	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5677a651-b5ee-b032-5cdb-4facee81e2a7.lsf100%  
 	    New File  		   13549	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\56e93612-46ab-a825-df8d-7596e1951b11.lsf100%  
 	    New File  		    2993	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\56ece030-5268-f3df-2574-5e29c65b242a.lsf100%  
@@ -5009,7 +5015,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2838	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5d3b10ba-3047-7863-4c22-386bb30311af.lsf100%  
 	    New File  		    2855	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5e441d19-eabb-ec07-efb2-d19540e2102b.lsf100%  
 	    New File  		    2694	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5e75724c-86ee-08da-4fe7-0026c7d9786d.lsf100%  
-	    New File  		    2468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5e983c32-e816-9406-37f0-99c4906698e9.lsf100%  
+	    New File  		    2462	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5e983c32-e816-9406-37f0-99c4906698e9.lsf100%  
 	    New File  		    2672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5f077767-a885-c463-a0a6-64a065622ce2.lsf100%  
 	    New File  		    2532	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5f95927c-7c08-cae3-289d-982defee09d9.lsf100%  
 	    New File  		    2734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\5fbaf955-5b83-eacf-243b-939620fc2ec1.lsf100%  
@@ -5029,7 +5035,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    6648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\64942078-cadb-0d1d-0094-21c82e973b67.lsf100%  
 	    New File  		    2811	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\64ba6daa-ea0b-70b5-de08-f4e69ef62c0c.lsf100%  
 	    New File  		    3003	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\64d29fee-2660-16c1-3cb4-826438c6ee2d.lsf100%  
-	    New File  		    2711	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\652f5e4d-5a9d-6d6d-a2ce-53fe6a5f36a2.lsf100%  
+	    New File  		    2729	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\652f5e4d-5a9d-6d6d-a2ce-53fe6a5f36a2.lsf100%  
 	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6554ae30-ff03-d350-13b1-ce109e55b4f7.lsf100%  
 	    New File  		    2654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\65669397-f4ed-4c00-8a35-2d039ace53c0.lsf100%  
 	    New File  		    2787	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\65abffc4-f20d-8f4b-cb65-01195f395991.lsf100%  
@@ -5041,7 +5047,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\67b0cea0-fde5-5db5-c2ac-1a5cad152966.lsf100%  
 	    New File  		    7117	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6810205b-2c6d-8d56-acbf-3b714ba65598.lsf100%  
 	    New File  		    6701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6840f706-922e-f29b-6d6f-106bf3111065.lsf100%  
-	    New File  		    2749	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6926ac16-aff1-7721-b18e-ae874d129321.lsf100%  
+	    New File  		    2705	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6926ac16-aff1-7721-b18e-ae874d129321.lsf100%  
 	    New File  		    1608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\69733d15-6b99-0d8e-3340-f14b9773e984.lsf100%  
 	    New File  		    9673	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\69b4b80e-3112-e716-6a7e-20718e00d94c.lsf100%  
 	    New File  		    9988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\69c9746b-c947-8528-6829-f4d608eff684.lsf100%  
@@ -5054,7 +5060,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6bc49c2d-de52-0097-25cc-38f727d2b0fa.lsf100%  
 	    New File  		    2527	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6be87a49-2efd-6c63-2d1f-8a6040d84ab5.lsf100%  
 	    New File  		    2841	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6c3d2cb1-48da-0db1-5fa6-414aade9fe3f.lsf100%  
-	    New File  		    2498	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6c5e680e-4bf6-956e-52c2-631f3580bc82.lsf100%  
+	    New File  		    2808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6c5e680e-4bf6-956e-52c2-631f3580bc82.lsf100%  
 	    New File  		   12558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6c889bf7-dfff-7bba-766d-6b22a84c36d5.lsf100%  
 	    New File  		    2639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6c948f0e-b7e4-264a-7d29-511d95849910.lsf100%  
 	    New File  		    2766	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\6cc311e3-c446-fbdb-27f9-24f229be4417.lsf100%  
@@ -5072,7 +5078,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2517	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\710bbf42-9f13-eb93-bb95-28e47f6ddbb7.lsf100%  
 	    New File  		    2674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7162a739-347a-3a4f-6382-0b714381ed27.lsf100%  
 	    New File  		    7095	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7166994c-c5d1-2582-e10a-ab6af0ac9166.lsf100%  
-	    New File  		    2707	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\717fd5ca-c270-4b2d-2f95-5129dc842099.lsf100%  
+	    New File  		    2890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\717fd5ca-c270-4b2d-2f95-5129dc842099.lsf100%  
 	    New File  		    2639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\725a7048-1873-4258-9e43-a4579755c87d.lsf100%  
 	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\727f6274-f665-9e98-5d34-3c13be96f839.lsf100%  
 	    New File  		    6579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\72cf1848-99eb-641e-7f3f-006405c6e781.lsf100%  
@@ -5102,10 +5108,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2761	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\798d75dc-a183-6ad9-8be8-8f39ff73c368.lsf100%  
 	    New File  		    2786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\79f6d6ff-ea48-47ed-1bcd-39f9f3b00265.lsf100%  
 	    New File  		    2751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7a1502a4-81ba-3e6b-2be0-50e7bc165125.lsf100%  
-	    New File  		    2598	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7a36e321-5ee7-c72d-3836-3147d9e3b08c.lsf100%  
+	    New File  		    2592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7a36e321-5ee7-c72d-3836-3147d9e3b08c.lsf100%  
 	    New File  		    2640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7a5602a5-a021-f0b6-e409-f0d467de26e1.lsf100%  
 	    New File  		    2524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7a859128-8e1b-1f49-2fb2-9e729728d635.lsf100%  
-	    New File  		    2686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7a8bfe8b-2fb7-3fa9-b4f0-a9af0545f3be.lsf100%  
+	    New File  		    2742	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7a8bfe8b-2fb7-3fa9-b4f0-a9af0545f3be.lsf100%  
 	    New File  		    2796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7aadd11c-9718-fc3c-1d72-7506c4823218.lsf100%  
 	    New File  		   10533	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7b666778-4298-d178-d9d6-6044871ce9ed.lsf100%  
 	    New File  		    8450	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7bc002dd-d71b-a6b8-1028-896f1a5b267f.lsf100%  
@@ -5113,7 +5119,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2746	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7c30ecb7-f87e-d39e-c2ef-c384b16e4e23.lsf100%  
 	    New File  		    2796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7c8b1984-ac21-28db-feb1-6a223661ca89.lsf100%  
 	    New File  		    8207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7cf39ec8-26c9-20d2-86d4-d76ab691936b.lsf100%  
-	    New File  		    2623	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7d2eccd1-ee7b-c0ab-9555-f906ac47cb5e.lsf100%  
+	    New File  		    2736	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7d2eccd1-ee7b-c0ab-9555-f906ac47cb5e.lsf100%  
 	    New File  		    2643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7d8643d3-819e-3b58-e139-efb556c391df.lsf100%  
 	    New File  		   48505	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7daf44b8-97b4-7790-45c5-d6de60234899.lsf100%  
 	    New File  		    2664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\7ee63174-87f3-4f21-99d0-ad683d5f7cc0.lsf100%  
@@ -5143,21 +5149,21 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2621	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\84683863-7aa4-4a9a-903f-c5d369c2b2b4.lsf100%  
 	    New File  		    2788	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\84795d31-27d9-9e0c-1a47-98822d1204ba.lsf100%  
 	    New File  		    6702	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\84aebb75-7ad2-43e6-d372-b8698272bafa.lsf100%  
-	    New File  		    2728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\85053620-ebee-6b14-70d5-344d84e8522d.lsf100%  
+	    New File  		    2542	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\85053620-ebee-6b14-70d5-344d84e8522d.lsf100%  
 	    New File  		    2882	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\852a9b5f-c002-88d7-85fb-dfbcee57dab0.lsf100%  
 	    New File  		    9672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\854e77a0-b08c-f92a-08c4-8adce5e3da00.lsf100%  
-	    New File  		    3055	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\85d36f2e-d110-41dd-2838-179962ae83a2.lsf100%  
+	    New File  		    3013	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\85d36f2e-d110-41dd-2838-179962ae83a2.lsf100%  
 	    New File  		    2798	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8613b333-001e-3b74-0588-b1586fbc3a82.lsf100%  
 	    New File  		   13546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\86674b57-db85-52a1-cee4-8f444b1de42c.lsf100%  
 	    New File  		    2786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\868ae2d6-20fa-cd48-5b44-c8e02c25d2e1.lsf100%  
 	    New File  		    2750	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\86970234-2d8d-7534-f4a7-f6d98f8355e8.lsf100%  
 	    New File  		    2639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\869e05e5-7798-49f6-96dc-495100383cc9.lsf100%  
 	    New File  		   11452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\86c69d4d-01e8-5640-3197-17746d978c8b.lsf100%  
-	    New File  		    2631	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\86fb3757-9a6a-eabd-706e-cb5b2db4ca79.lsf100%  
+	    New File  		    2742	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\86fb3757-9a6a-eabd-706e-cb5b2db4ca79.lsf100%  
 	    New File  		    2821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\87b781a5-b6cd-16c3-8ba6-0a7f6335973b.lsf100%  
 	    New File  		    2798	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\87e07d08-41e5-5ce4-b397-fbd2f716b734.lsf100%  
 	    New File  		    2856	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\87e1d52f-3b36-07b6-885d-a9eb34b0f935.lsf100%  
-	    New File  		    3386	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\882e935e-66f7-7fe5-df59-864474e95805.lsf100%  
+	    New File  		    3166	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\882e935e-66f7-7fe5-df59-864474e95805.lsf100%  
 	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\885dab52-5936-fdbc-dce5-5f2b82c3bab0.lsf100%  
 	    New File  		   12597	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\89575592-42c3-9be9-484e-80fe329555b1.lsf100%  
 	    New File  		    6472	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\89b980ea-cba8-1e82-9281-f48c63d8ebfc.lsf100%  
@@ -5165,7 +5171,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8a4a6215-fc57-4ac6-b904-f41bf1d66f92.lsf100%  
 	    New File  		    2652	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8a8bc55e-2dec-a688-4e0a-872ec282cc12.lsf100%  
 	    New File  		    2803	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8ae27ca1-5ed5-dd3e-8915-c37c8ac11e7e.lsf100%  
-	    New File  		    2679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8b0bd4e8-40cb-35a7-cbd5-a1e1d39a7a40.lsf100%  
+	    New File  		    2575	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8b0bd4e8-40cb-35a7-cbd5-a1e1d39a7a40.lsf100%  
 	    New File  		    2816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8bb65d4d-dc81-0c27-efae-a5b6c06b79ef.lsf100%  
 	    New File  		    2791	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8c1c701f-1d5a-dc93-a87c-42c8340b12b8.lsf100%  
 	    New File  		    5923	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\8c378d8b-5644-eac1-84f4-f6a58e26d6c5.lsf100%  
@@ -5211,15 +5217,15 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    7179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\978f110a-f7b4-c97e-ac6b-01208599d00a.lsf100%  
 	    New File  		    6572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\97adf455-dbd5-6381-1c24-0f4a1996847b.lsf100%  
 	    New File  		    2866	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\98014dc5-65b3-3ebd-7a9e-25ba339cd8ef.lsf100%  
-	    New File  		    2651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9870a3d0-8e6c-9179-dfe8-397512d7f5ed.lsf100%  
-	    New File  		    3968	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\98a0bdce-6f71-9769-0fb5-5b1824a18e63.lsf100%  
+	    New File  		    2811	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9870a3d0-8e6c-9179-dfe8-397512d7f5ed.lsf100%  
+	    New File  		    3242	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\98a0bdce-6f71-9769-0fb5-5b1824a18e63.lsf100%  
 	    New File  		    2823	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\991bab75-0716-48e1-7340-4b3b2dd9f79b.lsf100%  
 	    New File  		    2507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\99911834-d7c2-481e-2eca-202587d6e3a8.lsf100%  
 	    New File  		    2649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\99aa2229-8549-4116-86b8-bf9063a19c10.lsf100%  
 	    New File  		    2606	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9a3f4c7f-3a34-8ecb-6f64-3e06f3efabae.lsf100%  
 	    New File  		    2671	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9b29f187-4188-a95e-ca47-f97105224136.lsf100%  
 	    New File  		    2570	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9b372b9f-6dec-3526-8367-3adb633a6950.lsf100%  
-	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9bd4326f-afd1-3ea3-81e2-941d32ccb48f.lsf100%  
+	    New File  		    2741	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9bd4326f-afd1-3ea3-81e2-941d32ccb48f.lsf100%  
 	    New File  		   16419	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9bdf2762-e1f7-62e2-699f-cdc30c64f244.lsf100%  
 	    New File  		    2595	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9c060838-d3f5-4e81-b2f0-07a498cc1da2.lsf100%  
 	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9c7d9c21-6070-9437-48cd-3febea62dfb0.lsf100%  
@@ -5227,16 +5233,16 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9ca7ca49-d649-8c69-7e4d-3376481907b4.lsf100%  
 	    New File  		    2631	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9ccce093-3ab5-4d7c-a8f5-3d6eec0490a5.lsf100%  
 	    New File  		    2771	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9d59c45a-a615-5509-9b58-85c4806f3b0b.lsf100%  
-	    New File  		    3059	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9dd18cb3-64c5-ecbb-4b12-792e5a42bfd5.lsf100%  
+	    New File  		    3017	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9dd18cb3-64c5-ecbb-4b12-792e5a42bfd5.lsf100%  
 	    New File  		    2550	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9e426040-977d-a595-6b9f-80136cfbd264.lsf100%  
 	    New File  		    2486	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9e557ffd-9dd2-863b-876a-1648325850e5.lsf100%  
 	    New File  		    2826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9e765d08-5c2e-2f44-5cf4-7d9908baae48.lsf100%  
-	    New File  		    2651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9ed774e6-ad62-3bad-242e-627dd7203ff7.lsf100%  
+	    New File  		    2555	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9ed774e6-ad62-3bad-242e-627dd7203ff7.lsf100%  
 	    New File  		    2773	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9ed9abef-b125-3efb-e738-b8f510f94e38.lsf100%  
 	    New File  		    8370	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9eeccbe1-b739-256f-39ad-60833bb210af.lsf100%  
 	    New File  		   11696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9f76bf58-1d2a-3e42-27ea-c7b20b1722ec.lsf100%  
 	    New File  		    2629	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9f862f2a-7ded-7e5e-24d1-98cfeba02ab8.lsf100%  
-	    New File  		    2700	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9f96753d-5d0c-8fd0-270c-0a157da1de55.lsf100%  
+	    New File  		    2838	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9f96753d-5d0c-8fd0-270c-0a157da1de55.lsf100%  
 	    New File  		    7915	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\9fb523ca-07d0-08f6-9b65-9975be2bdffd.lsf100%  
 	    New File  		    2717	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a015275f-9a6c-fc1f-716d-5e7c695ac654.lsf100%  
 	    New File  		    3059	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a04fc262-b126-f4a7-56cf-f6460bbaf0b1.lsf100%  
@@ -5247,7 +5253,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    6370	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a09929fe-acc3-4d5f-0fc6-ba092cd38fcf.lsf100%  
 	    New File  		    2821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a09fc12b-1e65-0ff2-0e9e-bac2cadc3ff6.lsf100%  
 	    New File  		    2611	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a0ce4096-7925-2acc-56f9-b869e871146c.lsf100%  
-	    New File  		    2672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a105ef21-a93a-7546-fde7-244aead3b19a.lsf100%  
+	    New File  		    2702	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a105ef21-a93a-7546-fde7-244aead3b19a.lsf100%  
 	    New File  		    2577	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a10ceb83-75e4-bab6-b6c6-5b6f1209a2dd.lsf100%  
 	    New File  		   18000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a1343e17-e38f-257a-967b-b47606f80e83.lsf100%  
 	    New File  		    2779	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a1486e93-21db-38fe-d731-4495de3648fd.lsf100%  
@@ -5259,7 +5265,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2856	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a24b3b30-78be-6f11-7178-505d0a5fa7bc.lsf100%  
 	    New File  		    2652	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a254ee5b-399d-48af-99fc-c2b578157a3a.lsf100%  
 	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a2ea23e6-c2ee-ab8f-7c60-06aa6e5965b1.lsf100%  
-	    New File  		    2678	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a30734e7-8c31-55c4-0e1f-8f843df349f5.lsf100%  
+	    New File  		    2574	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a30734e7-8c31-55c4-0e1f-8f843df349f5.lsf100%  
 	    New File  		    2491	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a3147a49-551f-329a-efb2-58d3e403ae74.lsf100%  
 	    New File  		    2640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a32fbd95-6f67-41f2-8c23-ef6031799550.lsf100%  
 	    New File  		    2674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\a359624e-cb33-2c3b-1033-ed78c21be2de.lsf100%  
@@ -5327,7 +5333,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    6766	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\b438a3c0-929e-c074-4f13-96155a84df7b.lsf100%  
 	    New File  		    2542	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\b47359e9-9b3a-1ab8-844f-57e2098b77e7.lsf100%  
 	    New File  		    2624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\b4c0c501-d018-3093-d703-1f0877c9c658.lsf100%  
-	    New File  		    2680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\b50940cf-3959-3943-5d13-23468a4f104d.lsf100%  
+	    New File  		    2508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\b50940cf-3959-3943-5d13-23468a4f104d.lsf100%  
 	    New File  		    2690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\b5638e7f-0df3-d1d6-0368-9f263a4a2efd.lsf100%  
 	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\b5eb09c3-c10b-da45-0c1c-e3efd43c7f09.lsf100%  
 	    New File  		    3679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\b6ae6666-31da-daf5-2935-72ff7b9a38be.lsf100%  
@@ -5350,7 +5356,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    8333	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\bcdb7a6a-5816-c91e-de83-ed841de0999a.lsf100%  
 	    New File  		    7441	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\bd0e91b5-4989-04a9-2dce-17c03a226f77.lsf100%  
 	    New File  		    2644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\bdfe0e15-65cb-b992-cab7-4417836ee646.lsf100%  
-	    New File  		    2538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\bdffc8ad-6612-73c3-a524-443e82e48146.lsf100%  
+	    New File  		    2600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\bdffc8ad-6612-73c3-a524-443e82e48146.lsf100%  
 	    New File  		   10701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\be577012-5a75-2a24-e414-85dd48f204c8.lsf100%  
 	    New File  		    2833	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\be73c6f4-87af-463d-8656-7fbbeb27f3a4.lsf100%  
 	    New File  		    2832	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\bec12c36-464e-2f79-8f0d-8f3875b262f1.lsf100%  
@@ -5371,7 +5377,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   12587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\c4855b73-f280-3900-02d8-009a412aaed7.lsf100%  
 	    New File  		    8536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\c4bac691-5136-5402-f02d-71c2440b4cc0.lsf100%  
 	    New File  		    2781	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\c53641c3-a8d1-1f3a-bf7c-8fd92f416301.lsf100%  
-	    New File  		    2651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\c53f53c7-6687-5806-4546-fed568fcb253.lsf100%  
+	    New File  		    2850	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\c53f53c7-6687-5806-4546-fed568fcb253.lsf100%  
 	    New File  		    2637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\c54d37de-1369-b899-5e1f-a62cfbc95fb5.lsf100%  
 	    New File  		    5928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\c688cbf9-d8bb-b920-30b3-78289d5fc2d8.lsf100%  
 	    New File  		    2514	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\c6a2810a-b112-33c8-2b2f-881c83238fb7.lsf100%  
@@ -5419,7 +5425,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    7293	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d07f473e-3ccc-4dd2-9164-c67906a0e38f.lsf100%  
 	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d0a25147-8970-4484-971e-84c6ae8df539.lsf100%  
 	    New File  		    2763	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d184ec8f-797d-f3a9-9984-a6e9f6bcd687.lsf100%  
-	    New File  		    2498	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d1b312b5-e882-8ebf-3c0b-f89ec26a3221.lsf100%  
+	    New File  		    2808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d1b312b5-e882-8ebf-3c0b-f89ec26a3221.lsf100%  
 	    New File  		    2507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d21e3575-6e32-57c4-f8f9-2019bd4bec11.lsf100%  
 	    New File  		    2788	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d21e7b1d-0705-b2e1-a705-f5cb153a3a4f.lsf100%  
 	    New File  		    2702	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d39c6cb2-20f9-7619-ef7b-0df49e131a9f.lsf100%  
@@ -5436,7 +5442,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    6427	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d51c825a-6d89-6786-207b-4f83e5e6a38c.lsf100%  
 	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d548ba92-6b28-87a2-449c-2a8ae9f1cf2e.lsf100%  
 	    New File  		   18018	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d578a675-4b6e-5432-1d8a-fe49f8c9af07.lsf100%  
-	    New File  		    2473	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d607dd29-cb55-3106-ec56-95a403d0e165.lsf100%  
+	    New File  		    2573	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d607dd29-cb55-3106-ec56-95a403d0e165.lsf100%  
 	    New File  		    2886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d627e52c-4b2f-cbff-c3d4-f26c29a3bc8f.lsf100%  
 	    New File  		    2488	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d689068d-f66c-8c36-e0c8-3e0843164a6b.lsf100%  
 	    New File  		    2811	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\d6ca05bc-6db0-3c0a-1bda-8924ff7b2e93.lsf100%  
@@ -5457,13 +5463,13 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2889	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\db3da841-99df-98ab-6a40-44c660608d00.lsf100%  
 	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\dbff924f-dd95-f9a3-2f85-2561c4ee78ff.lsf100%  
 	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\dc0efff5-00a2-0a82-bb20-65865225a57d.lsf100%  
-	    New File  		    2777	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\dc1c47cc-15ff-9fbd-f846-81b0e9067728.lsf100%  
+	    New File  		    2645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\dc1c47cc-15ff-9fbd-f846-81b0e9067728.lsf100%  
 	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\dc883370-09b5-a2ab-7dc2-844fc0200162.lsf100%  
 	    New File  		    2736	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\dd30bc56-e196-5eaa-5948-17f65eeba00d.lsf100%  
 	    New File  		    2660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\dde1db33-91df-e382-135f-3203cc74a02e.lsf100%  
 	    New File  		    2702	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\de1dd1b7-8d88-4334-ae13-313b6fb1dc8b.lsf100%  
 	    New File  		    2796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\de5ea054-dd00-d839-99cb-e2eb0ba9a916.lsf100%  
-	    New File  		    2679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\df342abf-e717-e031-4a56-3c4abf3cba78.lsf100%  
+	    New File  		    2507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\df342abf-e717-e031-4a56-3c4abf3cba78.lsf100%  
 	    New File  		    2687	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e07e6be7-59b7-5938-b731-685774b32628.lsf100%  
 	    New File  		    2638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e14f2e48-b25c-3576-f459-2817bc133afd.lsf100%  
 	    New File  		    2649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e17eda0d-398c-bd78-0083-56999447c06a.lsf100%  
@@ -5502,6 +5508,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e918ed9d-c867-fb6e-f4a4-a17b387c42bb.lsf100%  
 	    New File  		    3021	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e9319c95-b39f-2075-611b-0ebf475f430b.lsf100%  
 	    New File  		    2736	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e983eb04-295e-06df-e192-98aa7f2c7fad.lsf100%  
+	    New File  		    2887	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e9b1665d-d2bb-46d1-bbe7-5bb4f558c183.lsf100%  
 	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\e9cfe976-86f6-917e-84e3-e592748d1a8e.lsf100%  
 	    New File  		    2833	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\ea36d78c-006c-ec2a-590e-ad3252bb034d.lsf100%  
 	    New File  		    8062	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\ea4a81e7-342b-93d8-228c-bd5b715408d5.lsf100%  
@@ -5547,13 +5554,14 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f83ada5f-9056-005c-03c4-af9dd7954497.lsf100%  
 	    New File  		    2578	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f83d33a6-3f33-baf4-62f8-27aee89a4e95.lsf100%  
 	    New File  		    5474	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f89206fa-5e05-98f8-e2a7-9dd44e2054f1.lsf100%  
-	    New File  		    2651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f893c3ae-3ade-f38b-3807-b01fe962264c.lsf100%  
+	    New File  		    2487	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f893c3ae-3ade-f38b-3807-b01fe962264c.lsf100%  
 	    New File  		    2686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f9268211-b11f-1ec3-ecbe-e67d965d8011.lsf100%  
 	    New File  		    2898	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f92bb503-070c-48d2-e068-a0cfa160df1a.lsf100%  
 	    New File  		    2766	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f99a80b0-ae97-ac5f-30e3-74be576f8105.lsf100%  
 	    New File  		    2512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f9b6c789-c6e8-79a5-403d-78e4dbf2a0e7.lsf100%  
 	    New File  		    2511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\f9d481c5-d92f-fac9-cae0-be42eeb7d827.lsf100%  
 	    New File  		    2712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fa227028-8541-28e2-b76f-d8838dc02dc6.lsf100%  
+	    New File  		    2539	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fa3f5e68-022f-4066-b129-615aad32c57e.lsf100%  
 	    New File  		    2651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fa871d0e-a46d-ee1b-854f-ff0251aec0d4.lsf100%  
 	    New File  		    2694	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fa8cabde-30e4-1554-6969-d81f3ece4252.lsf100%  
 	    New File  		    2639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Content\[PAK]_DGB_Body_AkELkA\fafd7fab-ddf8-4eab-9014-c77f50616f1a.lsf100%  
@@ -5610,6 +5618,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     167	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_StuddedLeather_C_Body.xml100%  
 	    New File  		  789152	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Githyanki_Underwear_B.GR2100%  
 	    New File  		     172	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Githyanki_Underwear_B.xml100%  
+	    New File  		 1002832	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Body_2.GR2100%  
+	    New File  		     172	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Body_2.xml100%  
+	    New File  		   67284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Skirt_A_2.GR2100%  
+	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Skirt_A_2.xml100%  
 	    New File  		    8019	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Effects_Banks\Characters\VFX_Characters_FootSmear_DGB4DpawEL_L_Foot_01_Acid.lsfx100%  
 	    New File  		    8022	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Effects_Banks\Characters\VFX_Characters_FootSmear_DGB4DpawEL_L_Foot_01_Alcohol.lsfx100%  
 	    New File  		    8023	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Effects_Banks\Characters\VFX_Characters_FootSmear_DGB4DpawEL_L_Foot_01_AlienOil.lsfx100%  
@@ -5681,6 +5693,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   63120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Camp\DGB_F_CLT_Camp_Deva_A_Footwear_NoMetal.GR2100%  
 	    New File  		  111008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Camp\DGB_F_CLT_Footwear_Leather_B.GR2100%  
 	    New File  		     168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Camp\DGB_F_CLT_Footwear_Leather_B.xml100%  
+	    New File  		   63508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear_NoMetal_EL_1.GR2100%  
+	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear_NoMetal_EL_1.xml100%  
 	    New File  		  272564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Bane_Plate_Footwear_A_EL_1.GR2100%  
 	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Bane_Plate_Footwear_A_EL_1.xml100%  
 	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_BarbarianMagical_A_Footwear_EL_1.GR2100%  
@@ -5729,12 +5743,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  191296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_G_EL_1.GR2100%  
 	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_G_EL_1.xml100%  
 	    New File  		  129244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_H_EL_1.GR2100%  
-	    New File  		   63508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear_NoMetal_EL_1.GR2100%  
 	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_H_EL_1.xml100%  
 	    New File  		  138096	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_A_EL_1.GR2100%  
 	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_A_EL_1.xml100%  
 	    New File  		  215536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_B_EL_1.GR2100%  
-	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear_NoMetal_EL_1.xml100%  
 	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_B_EL_1.xml100%  
 	    New File  		   86168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_C_EL_1.GR2100%  
 	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_C_EL_1.xml100%  
@@ -5839,23 +5851,23 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        49        49         1         0         0         0
-   Files :      2434      2434         0         0         0         0
-   Bytes :  146.32 m  146.32 m         0         0         0         0
-   Times :   0:00:08   0:00:01                       0:00:00   0:00:00
+    Dirs :        50        50         1         0         0         0
+   Files :      2440      2440         0         0         0         0
+   Bytes :  147.35 m  147.35 m         0         0         0         0
+   Times :   0:00:09   0:00:01                       0:00:00   0:00:00
 
 
-   Speed :           107074296 Bytes/sec.
-   Speed :            6126.840 MegaBytes/min.
-   Ended : Friday, July 25, 2025 4:15:48 PM
+   Speed :            98668074 Bytes/sec.
+   Speed :            5645.832 MegaBytes/min.
+   Ended : Thursday, July 31, 2025 4:43:22 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 2434 
-[DEBUG] Successfully copied files: 2434 
+[DEBUG] Total files counted: 2440 
+[DEBUG] Successfully copied files: 2440 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a: 
-      Total files: 2434 
-      Copied successfully: 2434 
+      Total files: 2440 
+      Copied successfully: 2440 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -5873,7 +5885,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, July 25, 2025 4:15:50 PM
+  Started : Thursday, July 31, 2025 4:43:25 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\
 
@@ -5899,13 +5911,132 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Body\DGB_M_NKD_Body_A_EL_1_NM.DDS100%  
 	    New File  		   85780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\NakedBody_Opener\DGB_F_NKD_Tail_A_TabOpener.GR2100%  
 	    New File  		   84796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\NakedBody_Opener\DGB_M_NKD_Tail_A_TabOpener.GR2100%  
-	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_DGB4DpawEL_Footprint_01.DDS100%  
-	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_DGB4DpawEL_Footprint_02.DDS100%  
-	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_DGB4DpawEL_Footprint_03.DDS100%  
-	    New File  		   87536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_Human_Footprint_01_BMA.DDS100%  
-	    New File  		   87536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_Human_Footprint_03_BMA.DDS100%  
-	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC4_MSK_DGB4DpawEL_Footprint_01.DDS100%  
-	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC4_MSK_DGB4DpawEL_Footprint_02.DDS100%  
+	    New File  		   28364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_ARM_Robe_Umberlee_A_Underwear_A.GR2100%  
+	    New File  		  250008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Dragonborn_Underwear_A.GR2100%  
+	    New File  		  230100	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Dwarves_Underwear_A.GR2100%  
+	    New File  		   48460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Elves_Underwear_A.GR2100%  
+	    New File  		  461056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Githyanki_Underwear_A.GR2100%  
+	    New File  		  789152	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Githyanki_Underwear_B.GR2100%  
+	    New File  		  294824	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Gnomes_Underwear_A.GR2100%  
+	    New File  		  156900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Halflings_Underwear_A.GR2100%  
+	    New File  		  199648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Halforcs_Underwear_A.GR2100%  
+	    New File  		  184220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Humans_Underwear_A.GR2100%  
+	    New File  		   76776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Humans_Underwear_C.GR2100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Incubus_Underwear_B.GR2100%  
+	    New File  		  138536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Shar_Underwear_A.GR2100%  
+	    New File  		   55588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Tieflings_Underwear_A.GR2100%  
+	    New File  		   74120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Bard_Belt_A.GR2100%  
+	    New File  		  169424	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Bard_Body_A.GR2100%  
+	    New File  		  162796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Belt_B.GR2100%  
+	    New File  		  127584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Citizen_Shirt_B.GR2100%  
+	    New File  		  588408	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Deva_A_Body_A.GR2100%  
+	    New File  		  193348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Halsin_Body.GR2100%  
+	    New File  		  180324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Jaheira_Body_A.GR2100%  
+	    New File  		  140472	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Minsc_Body.GR2100%  
+	    New File  		  122800	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Minsc_Body_Ragged.GR2100%  
+	    New File  		  404552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Outfit_Astarion_Body.GR2100%  
+	    New File  		  100644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Shar_Body.GR2100%  
+	    New File  		  218084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Shirt_A.GR2100%  
+	    New File  		  206028	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Daisy_Dress_A.GR2100%  
+	    New File  		  168000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Daisy_Dress_Accessories_Gale_God.GR2100%  
+	    New File  		  819960	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Daisy_Playsuit_A.GR2100%  
+	    New File  		  281168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_A.GR2100%  
+	    New File  		  196112	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_B_Twitch.GR2100%  
+	    New File  		 1002832	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Body.GR2100%  
+	    New File  		   67284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Skirt_A.GR2100%  
+	    New File  		  104612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Drow_Body_A.GR2100%  
+	    New File  		   35968	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Humans_Collar_A.GR2100%  
+	    New File  		  211520	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Jacket_E.GR2100%  
+	    New File  		  556168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_MiddleClass_Body_B.GR2100%  
+	    New File  		  251468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_MiddleClass_Body_C.GR2100%  
+	    New File  		  202140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_MiddleClass_Body_C_Sleeveless.GR2100%  
+	    New File  		  184132	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Refugees_Jacket.GR2100%  
+	    New File  		  109400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Refugees_Shirt_A.GR2100%  
+	    New File  		  103404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Refugees_Shirt_A_1.GR2100%  
+	    New File  		  784864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Rich_D_Body.GR2100%  
+	    New File  		  269416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Shirt_A.GR2100%  
+	    New File  		  182568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Shirt_C.GR2100%  
+	    New File  		  267456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Tunic_B.GR2100%  
+	    New File  		  121872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Astarion_Pants.GR2100%  
+	    New File  		   91184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Bandit_A_Pants.GR2100%  
+	    New File  		  108752	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BarbarianMagical_A_Pants.GR2100%  
+	    New File  		  459792	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BarbarianMagical_B_Pants.GR2100%  
+	    New File  		   84208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Barbarian_A_Pants.GR2100%  
+	    New File  		  225400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Barbarian_Karlach_A_Pants.GR2100%  
+	    New File  		  207244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Bard_Pants.GR2100%  
+	    New File  		  167420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BG_Watch_A_Pants.GR2100%  
+	    New File  		  167308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BG_Watch_B_Pants.GR2100%  
+	    New File  		  144816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BG_Watch_C_Pants.GR2100%  
+	    New File  		   96548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Bhaal_Rags_Pants.GR2100%  
+	    New File  		  217884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BreastPlate_A_Pants.GR2100%  
+	    New File  		   83500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_ChainMail_A_Pants.GR2100%  
+	    New File  		   63628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_ChainShirt_A_2_Pants.GR2100%  
+	    New File  		   63568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_ChainShirt_A_Pants.GR2100%  
+	    New File  		  725560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Cloth_Magic_A_Pants.GR2100%  
+	    New File  		  152512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Cloth_Magic_B_Pants.GR2100%  
+	    New File  		  215184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Cult_Absolute_Pants_A.GR2100%  
+	    New File  		  167524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Cult_Absolute_Pants_B.GR2100%  
+	    New File  		  236308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Daisy_Pants.GR2100%  
+	    New File  		  214616	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Dark_Justiciar_A_Pants.GR2100%  
+	    New File  		  346052	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Demon_A_Pants.GR2100%  
+	    New File  		  148460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Devils_Blacksmith_Pants.GR2100%  
+	    New File  		   96908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Devils_Blacksmith_Pants_B.GR2100%  
+	    New File  		  147428	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_DrowLeather_A_Pants.GR2100%  
+	    New File  		   93980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_DrowLeather_B_Pants.GR2100%  
+	    New File  		   62948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Druid_B_1_Pants.GR2100%  
+	    New File  		  141924	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Druid_B_2_Pants.GR2100%  
+	    New File  		  208336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_DwarvenPlate_A_Pants.GR2100%  
+	    New File  		  146232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Githyanki_HalfPlate_A_Pants.GR2100%  
+	    New File  		  119460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Githyanki_HalfPlate_B_Pants.GR2100%  
+	    New File  		  229992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_HalfPlate_A_Pants.GR2100%  
+	    New File  		  138276	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_HalfPlate_EndGame_Pants.GR2100%  
+	    New File  		   91988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Hide_A_0_Pants.GR2100%  
+	    New File  		  196072	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Isobel_A_Pants.GR2100%  
+	    New File  		   84992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Jaheira_Pants.GR2100%  
+	    New File  		  335436	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Ketheric_Pants_A.GR2100%  
+	    New File  		  172992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Leather_A_1_Pants.GR2100%  
+	    New File  		  176724	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Leather_A_2_Pants.GR2100%  
+	    New File  		   90468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Leather_A_Pants.GR2100%  
+	    New File  		   91400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Magic_Monk_Pants.GR2100%  
+	    New File  		   84356	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Magic_Monk_Pants_Scarf.GR2100%  
+	    New File  		   56976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Mindflayer_Pants_A.GR2100%  
+	    New File  		  129608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Monk_A_Pants.GR2100%  
+	    New File  		   55064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_NightsongPrison_Pants.GR2100%  
+	    New File  		  385004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Orin_Pants.GR2100%  
+	    New File  		  107444	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Padded_A_0_Pants_Broken.GR2100%  
+	    New File  		  118928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Padded_A_Pants.GR2100%  
+	    New File  		  189620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Platemail_A_1_Pants.GR2100%  
+	    New File  		  230120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Platemail_A_2_Pants.GR2100%  
+	    New File  		  214320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Ravengard_A_Pants.GR2100%  
+	    New File  		   96252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_RingMail_A_Pants.GR2100%  
+	    New File  		  225516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_RingMail_B_Pants.GR2100%  
+	    New File  		  139596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Scalemail_Adamantine_A_Pants.GR2100%  
+	    New File  		   57268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Scalemail_A_Pants_A.GR2100%  
+	    New File  		   93364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Scalemail_A_Pants_B.GR2100%  
+	    New File  		  118296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Splint_Adamantine_Pants.GR2100%  
+	    New File  		  167188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Splint_A_1_Pants.GR2100%  
+	    New File  		  118252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Splint_A_2_Pants.GR2100%  
+	    New File  		  167520	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_StuddedLeather_A_0_Pants.GR2100%  
+	    New File  		  197892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_StuddedLeather_A_1_Pants.GR2100%  
+	    New File  		  139768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Bard_Pants_A.GR2100%  
+	    New File  		   62256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Blacksmith_A_Pants.GR2100%  
+	    New File  		  103084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Jaheira_Pants_A.GR2100%  
+	    New File  		  202552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Karlach_A_Pants.GR2100%  
+	    New File  		  369816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Minsc_Pants_A.GR2100%  
+	    New File  		  225948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Minsc_Pants_B.GR2100%  
+	    New File  		  142600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Outfit_Laezel_Pants.GR2100%  
+	    New File  		   72816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Shar_Pants.GR2100%  
+	    New File  		   63404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Circus_Pants_D.GR2100%  
+	    New File  		  123640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Humans_Pants_A.GR2100%  
+	    New File  		  100120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_A.GR2100%  
+	    New File  		   91060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_B.GR2100%  
+	    New File  		  117532	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_C.GR2100%  
+	    New File  		   58340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_Courtesan_A.GR2100%  
+	    New File  		   91420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_D.GR2100%  
+	    New File  		  120268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_F.GR2100%  
+	    New File  		   98428	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_H.GR2100%  
+	    New File  		   74120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Refugees_Pants.GR2100%  
+	    New File  		  115784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Rich_D_Pants.GR2100%  
 	    New File  		  178488	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Capes\DGB_F_CLT_Rich_D_Cape.GR2100%  
 	    New File  		  400348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Gloves\DGB_F_ARM_BarbarianMagical_A_Gloves.GR2100%  
 	    New File  		  256364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Gloves\DGB_F_ARM_BarbarianMagical_B_Gloves.GR2100%  
@@ -6050,7 +6181,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  774652	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Barbarian_Karlach_A_Body.GR2100%  
 	    New File  		  256028	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Bard_BodyBot.GR2100%  
 	    New File  		  362084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Bard_BodyTop.GR2100%  
-	    New File  		  514336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Bard_Sleeves.GR2100%  
+	    New File  		  514336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Bard_Sleeves.GR2  0%  100%  
 	    New File  		  528404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_BG_Watch_Leather_A_Body.GR2100%  
 	    New File  		  475824	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_BG_Watch_Leather_B_Body.GR2100%  
 	    New File  		  523492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_BG_Watch_Metal_A_Body.GR2100%  
@@ -6221,7 +6352,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  819396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Robe_Umberlee_A_Body_B.GR2100%  
 	    New File  		  363832	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Scalemail_Adamantine_A_Body.GR2100%  
 	    New File  		  169124	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Scalemail_Adamantine_A_Sleeves.GR2100%  
-	    New File  		  463588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Scalemail_A_0_Body.GR2100%  
+	    New File  		  463588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Scalemail_A_0_Body.GR2 84%  100%  
 	    New File  		   32436	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Scalemail_A_0_Cloth.GR2100%  
 	    New File  		  415548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Scalemail_A_1_Body.GR2100%  
 	    New File  		  607656	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_ARM_Scalemail_A_2_Body.GR2100%  
@@ -6290,132 +6421,81 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  114232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_CLT_Shirt_I_Twitch.GR2100%  
 	    New File  		  191568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_CLT_Shirt_J.GR2100%  
 	    New File  		  261564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\UpperBody\DGB_F_CLT_Tunic_B.GR2100%  
-	    New File  		  121872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Astarion_Pants.GR2100%  
-	    New File  		   91184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Bandit_A_Pants.GR2100%  
-	    New File  		  108752	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BarbarianMagical_A_Pants.GR2100%  
-	    New File  		  459792	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BarbarianMagical_B_Pants.GR2100%  
-	    New File  		   84208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Barbarian_A_Pants.GR2100%  
-	    New File  		  225400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Barbarian_Karlach_A_Pants.GR2100%  
-	    New File  		  207244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Bard_Pants.GR2100%  
-	    New File  		  167420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BG_Watch_A_Pants.GR2100%  
-	    New File  		  167308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BG_Watch_B_Pants.GR2100%  
-	    New File  		  144816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BG_Watch_C_Pants.GR2100%  
-	    New File  		   96548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Bhaal_Rags_Pants.GR2100%  
-	    New File  		  217884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_BreastPlate_A_Pants.GR2100%  
-	    New File  		   83500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_ChainMail_A_Pants.GR2100%  
-	    New File  		   63628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_ChainShirt_A_2_Pants.GR2100%  
-	    New File  		   63568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_ChainShirt_A_Pants.GR2100%  
-	    New File  		  725560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Cloth_Magic_A_Pants.GR2100%  
-	    New File  		  152512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Cloth_Magic_B_Pants.GR2100%  
-	    New File  		  215184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Cult_Absolute_Pants_A.GR2100%  
-	    New File  		  167524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Cult_Absolute_Pants_B.GR2100%  
-	    New File  		  236308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Daisy_Pants.GR2100%  
-	    New File  		  214616	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Dark_Justiciar_A_Pants.GR2100%  
-	    New File  		  346052	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Demon_A_Pants.GR2100%  
-	    New File  		  148460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Devils_Blacksmith_Pants.GR2100%  
-	    New File  		   96908	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Devils_Blacksmith_Pants_B.GR2100%  
-	    New File  		  147428	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_DrowLeather_A_Pants.GR2100%  
-	    New File  		   93980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_DrowLeather_B_Pants.GR2100%  
-	    New File  		   62948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Druid_B_1_Pants.GR2100%  
-	    New File  		  141924	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Druid_B_2_Pants.GR2100%  
-	    New File  		  208336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_DwarvenPlate_A_Pants.GR2100%  
-	    New File  		  146232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Githyanki_HalfPlate_A_Pants.GR2100%  
-	    New File  		  119460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Githyanki_HalfPlate_B_Pants.GR2100%  
-	    New File  		  229992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_HalfPlate_A_Pants.GR2100%  
-	    New File  		  138276	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_HalfPlate_EndGame_Pants.GR2100%  
-	    New File  		   91988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Hide_A_0_Pants.GR2100%  
-	    New File  		  196072	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Isobel_A_Pants.GR2100%  
-	    New File  		   84992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Jaheira_Pants.GR2100%  
-	    New File  		  335436	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Ketheric_Pants_A.GR2100%  
-	    New File  		  172992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Leather_A_1_Pants.GR2100%  
-	    New File  		  176724	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Leather_A_2_Pants.GR2100%  
-	    New File  		   90468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Leather_A_Pants.GR2100%  
-	    New File  		   91400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Magic_Monk_Pants.GR2100%  
-	    New File  		   84356	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Magic_Monk_Pants_Scarf.GR2100%  
-	    New File  		   56976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Mindflayer_Pants_A.GR2100%  
-	    New File  		  129608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Monk_A_Pants.GR2100%  
-	    New File  		   55064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_NightsongPrison_Pants.GR2100%  
-	    New File  		  385004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Orin_Pants.GR2100%  
-	    New File  		  107444	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Padded_A_0_Pants_Broken.GR2100%  
-	    New File  		  118928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Padded_A_Pants.GR2100%  
-	    New File  		  189620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Platemail_A_1_Pants.GR2100%  
-	    New File  		  230120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Platemail_A_2_Pants.GR2100%  
-	    New File  		  214320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Ravengard_A_Pants.GR2100%  
-	    New File  		   96252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_RingMail_A_Pants.GR2100%  
-	    New File  		  225516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_RingMail_B_Pants.GR2100%  
-	    New File  		  139596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Scalemail_Adamantine_A_Pants.GR2100%  
-	    New File  		   57268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Scalemail_A_Pants_A.GR2100%  
-	    New File  		   93364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Scalemail_A_Pants_B.GR2100%  
-	    New File  		  118296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Splint_Adamantine_Pants.GR2100%  
-	    New File  		  167188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Splint_A_1_Pants.GR2100%  
-	    New File  		  118252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_Splint_A_2_Pants.GR2100%  
-	    New File  		  167520	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_StuddedLeather_A_0_Pants.GR2100%  
-	    New File  		  197892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_ARM_StuddedLeather_A_1_Pants.GR2100%  
-	    New File  		  139768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Bard_Pants_A.GR2100%  
-	    New File  		   62256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Blacksmith_A_Pants.GR2100%  
-	    New File  		  103084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Jaheira_Pants_A.GR2100%  
-	    New File  		  202552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Karlach_A_Pants.GR2100%  
-	    New File  		  369816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Minsc_Pants_A.GR2100%  
-	    New File  		  225948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Minsc_Pants_B.GR2100%  
-	    New File  		  142600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Outfit_Laezel_Pants.GR2100%  
-	    New File  		   72816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Camp_Shar_Pants.GR2100%  
-	    New File  		   63404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Circus_Pants_D.GR2100%  
-	    New File  		  123640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Humans_Pants_A.GR2100%  
-	    New File  		  100120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_A.GR2100%  
-	    New File  		   91060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_B.GR2100%  
-	    New File  		  117532	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_C.GR2100%  
-	    New File  		   58340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_Courtesan_A.GR2100%  
-	    New File  		   91420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_D.GR2100%  
-	    New File  		  120268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_F.GR2100%  
-	    New File  		   98428	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Pants_H.GR2100%  
-	    New File  		   74120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Refugees_Pants.GR2100%  
-	    New File  		  115784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Pants\DGB_M_CLT_Rich_D_Pants.GR2100%  
-	    New File  		   28364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_ARM_Robe_Umberlee_A_Underwear_A.GR2100%  
-	    New File  		  250008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Dragonborn_Underwear_A.GR2100%  
-	    New File  		  230100	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Dwarves_Underwear_A.GR2100%  
-	    New File  		   48460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Elves_Underwear_A.GR2100%  
-	    New File  		  461056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Githyanki_Underwear_A.GR2100%  
-	    New File  		  789152	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Githyanki_Underwear_B.GR2100%  
-	    New File  		  294824	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Gnomes_Underwear_A.GR2100%  
-	    New File  		  156900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Halflings_Underwear_A.GR2100%  
-	    New File  		  199648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Halforcs_Underwear_A.GR2100%  
-	    New File  		  184220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Humans_Underwear_A.GR2100%  
-	    New File  		   76776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Humans_Underwear_C.GR2100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Incubus_Underwear_B.GR2100%  
-	    New File  		  138536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Shar_Underwear_A.GR2100%  
-	    New File  		   55588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Underwear\DGB_M_CLT_Tieflings_Underwear_A.GR2100%  
-	    New File  		   55140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Bard_Belt_A.GR2100%  
-	    New File  		  149696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Bard_Body_A.GR2100%  
-	    New File  		   91756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Belt_B.GR2100%  
-	    New File  		   75828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Citizen_Shirt_B.GR2100%  
-	    New File  		  484052	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Deva_A_Body_A.GR2100%  
-	    New File  		  142828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Halsin_Body.GR2100%  
-	    New File  		  150348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Jaheira_Body_A.GR2100%  
-	    New File  		  125484	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Minsc_Body.GR2100%  
-	    New File  		   69040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Minsc_Body_Ragged.GR2100%  
-	    New File  		  349600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Outfit_Astarion_Body.GR2100%  
-	    New File  		   85692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Shar_Body.GR2100%  
-	    New File  		  124076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Camp_Shirt_A.GR2100%  
-	    New File  		  112384	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Daisy_Dress_A.GR2100%  
-	    New File  		   91460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Daisy_Dress_Accessories_Gale_God.GR2100%  
-	    New File  		  657876	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Daisy_Playsuit_A.GR2100%  
-	    New File  		  254588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_A.GR2100%  
-	    New File  		  183780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_B_Twitch.GR2100%  
-	    New File  		  835528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Body.GR2100%  
-	    New File  		   56296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Doublet_Rich_C_Skirt_A.GR2100%  
-	    New File  		   93532	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Drow_Body_A.GR2100%  
-	    New File  		   25216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Humans_Collar_A.GR2100%  
-	    New File  		  194588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Jacket_E.GR2100%  
-	    New File  		  464640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_MiddleClass_Body_B.GR2100%  
-	    New File  		  231320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_MiddleClass_Body_C.GR2100%  
-	    New File  		  186784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_MiddleClass_Body_C_Sleeveless.GR2100%  
-	    New File  		  170488	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Refugees_Jacket.GR2100%  
-	    New File  		   99232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Refugees_Shirt_A.GR2100%  
-	    New File  		   93140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Refugees_Shirt_A_1.GR2100%  
-	    New File  		  660596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Rich_D_Body.GR2100%  
-	    New File  		  239648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Shirt_A.GR2100%  
-	    New File  		  170024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Shirt_C.GR2100%  
-	    New File  		  137232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\UpperBody\DGB_M_CLT_Tunic_B.GR2100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_DGB4DpawEL_Footprint_01.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_DGB4DpawEL_Footprint_02.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_DGB4DpawEL_Footprint_03.DDS100%  
+	    New File  		   87536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_Human_Footprint_01_BMA.DDS100%  
+	    New File  		   87536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC3_NM_Human_Footprint_03_BMA.DDS100%  
+	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC4_MSK_DGB4DpawEL_Footprint_01.DDS100%  
+	    New File  		  174904	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\Assets\Effects\Textures\VFX_BC4_MSK_DGB4DpawEL_Footprint_02.DDS100%  
+	    New File  		  392500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Bane_Plate_Footwear_A_EL_1.GR2100%  
+	    New File  		  938116	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_BarbarianMagical_A_Footwear_EL_1.GR2100%  
+	    New File  		  185008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_BarbarianMagical_B_Footwear_EL_1.GR2100%  
+	    New File  		  391984	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Barbarian_A_Footwear_EL_1.GR2100%  
+	    New File  		   76952	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Barbarian_B_Footwear_EL_1.GR2100%  
+	    New File  		  201868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Barbarian_Karlach_A_Footwear.GR2100%  
+	    New File  		  373948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Bard_Footwear_EL_1.GR2100%  
+	    New File  		   41016	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Bhaal_Rags_Footwear_EL_1.GR2100%  
+	    New File  		  205628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Daisy_Footwear_EL_1.GR2100%  
+	    New File  		  143228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Dark_Justiciar_A_Footwear_EL_1.GR2100%  
+	    New File  		  205056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Demon_A_Footwear_EL_1.GR2100%  
+	    New File  		  201684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Devils_Blacksmith_Footwear_EL_1.GR2100%  
+	    New File  		  244412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_DrowLeather_A_Footwear_EL_1.GR2100%  
+	    New File  		   69364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Druid_B_Footwear_EL_1.GR2100%  
+	    New File  		  105036	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_FlamingFist_Leather_Footwear_EL_1.GR2100%  
+	    New File  		  138668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Chainmail_A_EL_1.GR2100%  
+	    New File  		  112912	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_A_EL_1.GR2100%  
+	    New File  		   92048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_B_EL_1.GR2100%  
+	    New File  		   71660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_C_EL_1.GR2100%  
+	    New File  		  195460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_D_EL_1.GR2100%  
+	    New File  		  202204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_E_EL_1.GR2100%  
+	    New File  		  168740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_F_EL_1.GR2100%  
+	    New File  		  186092	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_G_EL_1.GR2100%  
+	    New File  		  131224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_H_EL_1.GR2100%  
+	    New File  		  121348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_A_EL_1.GR2100%  
+	    New File  		  151704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_B_EL_1.GR2100%  
+	    New File  		   92284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_C_EL_1.GR2100%  
+	    New File  		  148916	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_D_EL_1.GR2100%  
+	    New File  		   95444	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_E_EL_1.GR2100%  
+	    New File  		  122168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_F_EL_1.GR2100%  
+	    New File  		  201752	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_A_EL_1.GR2100%  
+	    New File  		  240140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_B_EL_1.GR2100%  
+	    New File  		  214804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_C_EL_1.GR2100%  
+	    New File  		  215608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_D_EL_1.GR2100%  
+	    New File  		  166516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_E_EL_1.GR2100%  
+	    New File  		  389372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_F_EL_1.GR2100%  
+	    New File  		   94728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Githyanki_HalfPlate_A_Footwear.GR2100%  
+	    New File  		  114704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Githyanki_HalfPlate_B_Footwear.GR2100%  
+	    New File  		   82328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Gortash_Footwear.GR2100%  
+	    New File  		  118684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_HalfPlate_EndGame_Footwear.GR2100%  
+	    New File  		  219020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Hide_A_Footwear_EL_1.GR2100%  
+	    New File  		  149804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Isobel_A_Footwear_EL_1.GR2100%  
+	    New File  		   78608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Jaheira_Footwear_EL_1.GR2100%  
+	    New File  		  227604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Ketheric_Footwear_A_EL_1.GR2100%  
+	    New File  		   97992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Magic_Monk_Footwear_EL_1.GR2100%  
+	    New File  		   77244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Mindflayer_Footwear_A.GR2100%  
+	    New File  		  120720	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Monk_A_Footwear_EL_1.GR2100%  
+	    New File  		  204192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Myrkul_Plate_Footwear_A_EL_1.GR2100%  
+	    New File  		  310684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Nightsong_Footwear_EL_1.GR2100%  
+	    New File  		  182900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Platemail_B_Footwear_EL_1.GR2100%  
+	    New File  		  265316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_ShadowDruid_Footwear.GR2100%  
+	    New File  		   67668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_CLT_Footwear_Cloth_B_EL_1.GR2100%  
+	    New File  		   65784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_CLT_Footwear_Cloth_C_EL_1.GR2100%  
+	    New File  		  108096	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_ARM_Camp_Footwear_Sandals_A_1.GR2100%  
+	    New File  		  173200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_ARM_Camp_Footwear_Sandals_B_1.GR2100%  
+	    New File  		  164848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_ARM_Camp_Footwear_Sandals_C_1.GR2100%  
+	    New File  		  160120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_ARM_Camp_Footwear_Sandals_C_2.GR2100%  
+	    New File  		  109688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Bard_Footwear_A_EL_1.GR2100%  
+	    New File  		   82308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear.GR2100%  
+	    New File  		   63508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear_NoMetal_EL_1.GR2100%  
+	    New File  		   74728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Cloth_A_EL_1.GR2100%  
+	    New File  		   44092	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Cloth_D_EL_1.GR2100%  
+	    New File  		   78224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Cloth_E.GR2100%  
+	    New File  		  108620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Cloth_F.GR2100%  
+	    New File  		   58272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Leather_A_EL_1.GR2100%  
+	    New File  		  111392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Leather_B.GR2100%  
+	    New File  		  102152	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Leather_C.GR2100%  
+	    New File  		   88592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Leather_D.GR2100%  
 	    New File  		  392116	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Boots\DGB_F_ARM_Bane_Plate_Footwear_A_EL_1.GR2100%  
 	    New File  		  937732	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Boots\DGB_F_ARM_BarbarianMagical_A_Footwear_EL_1.GR2100%  
 	    New File  		  184620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Boots\DGB_F_ARM_BarbarianMagical_B_Footwear_EL_1.GR2100%  
@@ -6480,87 +6560,19 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  111008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Camp\DGB_F_CLT_Footwear_Leather_B.GR2100%  
 	    New File  		  103712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Camp\DGB_F_CLT_Footwear_Leather_C.GR2100%  
 	    New File  		   88352	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor\Footwear\Camp\DGB_F_CLT_Footwear_Leather_D.GR2100%  
-	    New File  		  392500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Bane_Plate_Footwear_A_EL_1.GR2100%  
-	    New File  		  938116	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_BarbarianMagical_A_Footwear_EL_1.GR2100%  
-	    New File  		  185008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_BarbarianMagical_B_Footwear_EL_1.GR2100%  
-	    New File  		  391984	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Barbarian_A_Footwear_EL_1.GR2100%  
-	    New File  		   76952	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Barbarian_B_Footwear_EL_1.GR2100%  
-	    New File  		  201868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Barbarian_Karlach_A_Footwear.GR2100%  
-	    New File  		  373948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Bard_Footwear_EL_1.GR2100%  
-	    New File  		   41016	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Bhaal_Rags_Footwear_EL_1.GR2100%  
-	    New File  		  205628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Daisy_Footwear_EL_1.GR2100%  
-	    New File  		  143228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Dark_Justiciar_A_Footwear_EL_1.GR2100%  
-	    New File  		  205056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Demon_A_Footwear_EL_1.GR2100%  
-	    New File  		  201684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Devils_Blacksmith_Footwear_EL_1.GR2100%  
-	    New File  		  108096	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_ARM_Camp_Footwear_Sandals_A_1.GR2100%  
-	    New File  		  244412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_DrowLeather_A_Footwear_EL_1.GR2100%  
-	    New File  		  173200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_ARM_Camp_Footwear_Sandals_B_1.GR2100%  
-	    New File  		   69364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Druid_B_Footwear_EL_1.GR2100%  
-	    New File  		  164848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_ARM_Camp_Footwear_Sandals_C_1.GR2100%  
-	    New File  		  105036	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_FlamingFist_Leather_Footwear_EL_1.GR2100%  
-	    New File  		  160120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_ARM_Camp_Footwear_Sandals_C_2.GR2100%  
-	    New File  		  138668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Chainmail_A_EL_1.GR2100%  
-	    New File  		  109688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Bard_Footwear_A_EL_1.GR2100%  
-	    New File  		  112912	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_A_EL_1.GR2100%  
-	    New File  		   82308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear.GR2100%  
-	    New File  		   92048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_B_EL_1.GR2100%  
-	    New File  		   63508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Camp_Deva_A_Footwear_NoMetal_EL_1.GR2100%  
-	    New File  		   71660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_C_EL_1.GR2100%  
-	    New File  		   74728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Cloth_A_EL_1.GR2100%  
-	    New File  		  195460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_D_EL_1.GR2100%  
-	    New File  		   44092	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Cloth_D_EL_1.GR2100%  
-	    New File  		   78224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Cloth_E.GR2100%  
-	    New File  		  108620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Cloth_F.GR2100%  
-	    New File  		   58272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Leather_A_EL_1.GR2100%  
-	    New File  		  202204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_E_EL_1.GR2100%  
-	    New File  		  111392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Leather_B.GR2100%  
-	    New File  		  168740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_F_EL_1.GR2100%  
-	    New File  		  102152	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Leather_C.GR2100%  
-	    New File  		  186092	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_G_EL_1.GR2100%  
-	    New File  		  131224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Cloth_H_EL_1.GR2100%  
-	    New File  		   88592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Camp\DGB_M_CLT_Footwear_Leather_D.GR2100%  
-	    New File  		  121348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_A_EL_1.GR2100%  
-	    New File  		  151704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_B_EL_1.GR2100%  
-	    New File  		   92284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_C_EL_1.GR2100%  
-	    New File  		  148916	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_D_EL_1.GR2100%  
-	    New File  		   95444	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_E_EL_1.GR2100%  
-	    New File  		  122168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Leather_F_EL_1.GR2100%  
-	    New File  		  201752	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_A_EL_1.GR2100%  
-	    New File  		  240140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_B_EL_1.GR2100%  
-	    New File  		  214804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_C_EL_1.GR2100%  
-	    New File  		  215608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_D_EL_1.GR2100%  
-	    New File  		  166516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_E_EL_1.GR2100%  
-	    New File  		  389372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Footwear_Metal_F_EL_1.GR2100%  
-	    New File  		   94728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Githyanki_HalfPlate_A_Footwear.GR2100%  
-	    New File  		  114704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Githyanki_HalfPlate_B_Footwear.GR2100%  
-	    New File  		   82328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Gortash_Footwear.GR2100%  
-	    New File  		  118684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_HalfPlate_EndGame_Footwear.GR2100%  
-	    New File  		  219020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Hide_A_Footwear_EL_1.GR2100%  
-	    New File  		  149804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Isobel_A_Footwear_EL_1.GR2100%  
-	    New File  		   78608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Jaheira_Footwear_EL_1.GR2100%  
-	    New File  		  227604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Ketheric_Footwear_A_EL_1.GR2100%  
-	    New File  		   97992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Magic_Monk_Footwear_EL_1.GR2100%  
-	    New File  		   77244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Mindflayer_Footwear_A.GR2100%  
-	    New File  		  120720	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Monk_A_Footwear_EL_1.GR2100%  
-	    New File  		  204192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Myrkul_Plate_Footwear_A_EL_1.GR2100%  
-	    New File  		  310684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Nightsong_Footwear_EL_1.GR2100%  
-	    New File  		  182900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_Platemail_B_Footwear_EL_1.GR2100%  
-	    New File  		  265316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_ARM_ShadowDruid_Footwear.GR2100%  
-	    New File  		   67668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_CLT_Footwear_Cloth_B_EL_1.GR2100%  
-	    New File  		   65784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Armor_Male\Footwear\Boots\DGB_M_CLT_Footwear_Cloth_C_EL_1.GR2100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        25        25         1         0         0         0
    Files :       665       665         0         0         0         0
-   Bytes :  217.37 m  217.37 m         0         0         0         0
-   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Bytes :  218.92 m  218.92 m         0         0         0         0
+   Times :   0:00:02   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2017161415 Bytes/sec.
-   Speed :           115422.902 MegaBytes/min.
-   Ended : Friday, July 25, 2025 4:15:51 PM
+   Speed :           547886405 Bytes/sec.
+   Speed :           31350.311 MegaBytes/min.
+   Ended : Thursday, July 31, 2025 4:43:25 PM
 
  
 [DEBUG] Counting source files 
@@ -6593,7 +6605,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 2434 
+[LOG] Files copied by xcopy: 2440 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -6602,8 +6614,8 @@ SECTION 4: FINAL SUMMARY
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 3147 
-[SUMMARY] Total files successfully copied: 6294 
+[SUMMARY] Total files found: 3153 
+[SUMMARY] Total files successfully copied: 6306 
  
 [SUMMARY] All files were copied successfully 
  
