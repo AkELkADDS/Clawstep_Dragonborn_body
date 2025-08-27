@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="10"/>
+    <version major="4" minor="8" revision="0" build="400"/>
     <region id="CharacterCreationMaterialOverrides">
         <node id="root">
             <children>
@@ -12,6 +12,15 @@
                     <attribute id="SourceMaterialUUID" type="FixedString" value="bb73b8a4-be54-13eb-6c1a-b00cbfd621e2"/>
                     <attribute id="TargetMaterialUUID" type="FixedString" value="56e93612-46ab-a825-df8d-7596e1951b11"/>
                     <attribute id="UUID" type="guid" value="cdb3327d-f7c2-4dce-b599-a98e2f71cb11"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_A_EL_1"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="86674b57-db85-52a1-cee4-8f444b1de42c"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="607c70fb-5d59-3e23-53dd-93ebe06b02b9"/>
+                    <attribute id="UUID" type="guid" value="6046fd23-fb30-44eb-9f94-adcb7c5ca23c"/>
                 </node>
             </children>
         </node>
